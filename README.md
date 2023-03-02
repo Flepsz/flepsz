@@ -4,12 +4,10 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"Let's code"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
+
 
 <p align="center">
 <br>
