@@ -65,7 +65,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 <br>
 <p align='center'>
@@ -76,7 +76,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flepsz)]" alt="Sumanth's Github Stats" width="60%">
+  <img align="left" src="[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="Flepsz's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
