@@ -19,7 +19,7 @@
 
 ### I am a Systems Developer at Bosch
 - 📚 I’m currently learning Python, Java, HTML5 and CSS.
-- 💻 Interested in backend
+- 💻 Interested to learn more about Back-end
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: Be a good programmer and contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the bounds
