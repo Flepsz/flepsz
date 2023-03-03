@@ -49,4 +49,8 @@
 
 <br>
 
-![snake gif](https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+	<img src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribuitions"
+</div>
+
+
