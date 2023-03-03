@@ -22,7 +22,6 @@
 - 💻 Interested in backend
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: Be a good programmer and contribute to Open Source projects
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -49,9 +48,3 @@
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
