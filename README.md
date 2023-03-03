@@ -61,61 +61,16 @@
 <br>
 <br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
 ### :zap: Github Stats
-
-  <img align="left" src="[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="Flepsz's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
-
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
-
-<br>
-
-<br>
-
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<div style="display: flex; align-items: center; justify-content: center;">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Stats">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Flepsz&show_icons=true&hide_border=true&theme=tokyonight" width="37%" alt="Flepsz's Top Languages">
+
+<br>
+  
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
