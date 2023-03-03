@@ -48,3 +48,5 @@
 </div>
 
 <br>
+
+![snake gif](https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.gif)
