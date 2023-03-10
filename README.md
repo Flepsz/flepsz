@@ -33,7 +33,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Stats">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&show_icons=true&hide_border=true&theme=tokyonight" width="37%" alt="Flepsz's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&locale=en" width="37%" height="30%" alt="Flepsz's Top Languages">
 </div>
 </div>
 
