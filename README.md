@@ -43,7 +43,7 @@
 <div align="center">
 	<p>
   		<a href="https://skillicons.dev">
-    			<img src="https://skillicons.dev/icons?i=py,java,html,css,discord,github,ai,ps,xd" width="70%" height="70%"/>
+    			<img src="https://skillicons.dev/icons?i=py,java,html,css,github,ai,ps,xd&perline=4" width="40%" height="40%"/>
   		</a>
 	</p>
 </div>
