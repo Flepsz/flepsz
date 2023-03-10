@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix"/>
 <p>
   <h1 align="center"><b>Hello there, I'm Felipe! 👋</b></h1>
 </p>
@@ -53,5 +53,3 @@
     <img alt="Snake animation" src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
     <img alt="Snake animation" src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
-
-
