@@ -22,7 +22,7 @@
 - 💻 Interested to learn more about Back-end
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: Be a good programmer and contribute to Open Source projects
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to: Go beyond and exceed my limits
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
