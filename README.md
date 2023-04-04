@@ -35,6 +35,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Top Languages">
 </div>
+<img src="https://komarev.com/ghpvc/?username=Flepsz&color=002b36">
 </div>
 
 <br>
