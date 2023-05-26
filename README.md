@@ -4,7 +4,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Flepsz!;+Welcome!)](https://git.io/typing-svg)
-<h3 align="center"><b>"Let's code"</b></h4>
+<h3 align="center"><b>"Let's code"</b></h3>
+</div>
 
 <p align="center">
 <br>
@@ -25,6 +26,7 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
+<br>
 
 ### :zap: Github Stats
 <div align="center">
@@ -38,6 +40,7 @@
 </div>
 
 <br>
+
 
 ### Languages and Tools
 <div align="center">
