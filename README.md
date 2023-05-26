@@ -4,12 +4,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Flepsz!;+Welcome!)](https://git.io/typing-svg)
-  
-</div><br>
-
-<p>
-  <h4 align="center"><b>"Let's code"</b></h4>
-</p>
+<h3 align="center"><b>"Let's code"</b></h4>
 
 <p align="center">
 <br>
