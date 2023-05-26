@@ -29,7 +29,7 @@
 
 ### :zap: Github Stats
 <div align="center">
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; text-align: center;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Stats">
   
