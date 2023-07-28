@@ -18,7 +18,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Systems Developer at Bosch
-- 📚 I’m currently learning Python, Java, and Web Frameworks.
+- 📚 I’m currently learning Typescript with Next JS.
 - 💻 Interested to learn more about Web dev.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: Be a good programmer and contribute to Open Source projects
