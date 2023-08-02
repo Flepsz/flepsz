@@ -32,7 +32,7 @@
 <div align="center">
 <div style="display: flex; justify-content: space-between; text-align: center;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Flepsz&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Flepsz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Stats">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Flepsz's Top Languages">
 </div>
