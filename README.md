@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
 
 ### I am a Systems Developer at Bosch
 - 📚 I’m currently learning Typescript with Next JS.
