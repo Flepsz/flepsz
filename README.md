@@ -1,6 +1,6 @@
 <!-- <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix"/> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=header"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Flepsz!;+Welcome!)](https://git.io/typing-svg)
@@ -60,4 +60,4 @@
     <img alt="Snake animation" src="https://github.com/Flepsz/flepsz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=footer"/>
