@@ -31,11 +31,13 @@
 	src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif"
 />
 
-### I am a Systems Developer at Bosch - 📚 I’m currently learning Typescript
-with Next JS. - 💻 Interested to learn more about Web dev. - 👯 I’m looking to
-collaborate with other Developers :wink: - 🎯 Goals: Be a good programmer and
-contribute to Open Source projects - 🧗 I try to: Go beyond and exceed my limits
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+  ### I am a Systems Developer at Bosch
+  - 📚 I’m currently learning Typescript with Next JS.
+  - 💻 Interested to learn more about Web dev.
+  - 👯 I’m looking to collaborate with other Developers :wink:
+  - 🎯 Goals: Be a good programmer and contribute to Open Source projects
+  - 🧗 I try to: Go beyond and exceed my limits
+  - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br />
 <br />
