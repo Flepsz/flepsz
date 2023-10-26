@@ -74,7 +74,7 @@
 	<p>
 		<a>
 			<img
-				src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,react,django,github,ai,ps,xd,ae&perline=6"
+				src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,react,django,spring,github,ps,xd,ae&perline=6"
 				width="50%"
 				height="50%"
 			/>
