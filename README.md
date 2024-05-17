@@ -59,7 +59,7 @@
 		/>
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact&exclude=html&theme=tokyonight&hide_border=true&locale=en"
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flepsz&layout=compact&hide=html,css&theme=tokyonight&hide_border=true&locale=en"
 			alt="Flepsz's Top Languages"
 		/>
 	</div>
