@@ -32,7 +32,7 @@
 />
 
   ### I am a Systems Developer at Bosch
-  - 📚 I’m currently learning Typescript with Next JS.
+  - 📚 I’m currently learning Rust.
   - 💻 Interested to learn more about Web dev.
   - 👯 I’m looking to collaborate with other Developers :wink:
   - 🎯 Goals: Be a good programmer and contribute to Open Source projects
