@@ -4,8 +4,7 @@
 />
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Flepsz!;+Welcome!)](https://git.io/typing-svg)
-  <h3 align="center"><b>"Let's code"</b></h3>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luis+Felipe!)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
@@ -24,20 +23,13 @@
 
 <br />
 
-<img
-	align="right"
-	height="270px"
-	alt="GIF"
-	src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif"
-/>
+### Systems Developer at Bosch
 
-  ### I am a Systems Developer at Bosch
-  - 📚 I’m currently learning Rust.
-  - 💻 Interested to learn more about Web dev.
-  - 👯 I’m looking to collaborate with other Developers :wink:
-  - 🎯 Goals: Be a good programmer and contribute to Open Source projects
-  - 🧗 I try to: Go beyond and exceed my limits
-  - ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 📚 Currently expanding my expertise in Rust.
+- 💻 Developing skills in Web development with a strong interest in exploring new technologies.
+- 👯 Open to collaboration with fellow developers on innovative projects.
+- 🎯 Committed to becoming a proficient programmer and actively contributing to Open Source initiatives.
+- 🧗 Dedicated to pushing boundaries and consistently challenging my limits.
 
 <br />
 <br />
